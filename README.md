@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Chawla</h1>
-<h3 align="center">A am passionate Full Stack developer, currently I am in canada.</h3>
+<h3 align="center">I am passionate Full Stack developer, currently I am in canada.</h3>
 
 - 💬 Ask me about **react, python, Django**
 
