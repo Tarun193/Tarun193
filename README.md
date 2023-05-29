@@ -1,5 +1,6 @@
 <img align="center" src="Banner.png"/></a>
 
+
 <h1 align="center">Hi 👋, I'm Tarun Chawla</h1>
 <h3 align="center">I am passionate Full Stack developer, currently I am in canada.</h3>
 
