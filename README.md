@@ -7,7 +7,6 @@
 - 💬 Ask me about **react, python, Django**
 
 - 📫 How to reach me **tarunchawla.7463@gmail.com**
-
 - ⚡ Fun fact **I am unintentionally funny**
 
 <h3 align="left">Connect with me:</h3>
