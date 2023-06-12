@@ -23,7 +23,5 @@
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tarun193&show_icons=true&locale=en&layout=compact" alt="tarun193" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tarun193&show_icons=true&locale=en" alt="tarun193" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tarun193)](https://git.io/streak-stats)
 
