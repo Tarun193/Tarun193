@@ -19,8 +19,7 @@
 
 ## 📈 GitHub Stats
 
-<img align="left" style="display:inline" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tarun193&show_icons=true&locale=en&layout=compact" alt="tarun193" />
+<img align="left" style="display:inline" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tarun193&show_icons=true&locale=en&layout=compact" alt="tarun193" /> [![GitHub Streak](https://streak-stats.demolab.com?user=tarun193)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tarun193)](https://git.io/streak-stats)
 
 
