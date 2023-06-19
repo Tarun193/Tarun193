@@ -19,7 +19,7 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
   <img align="left" style="display: inline" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tarun193&show_icons=true&locale=en&layout=compact" alt="tarun193" />
   <a href="https://git.io/streak-stats">
     <img align="left" style="display: inline" src="https://streak-stats.demolab.com?user=tarun193" alt="GitHub Streak" />
