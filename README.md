@@ -19,11 +19,11 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex;">
-  <img align="left" style="display: inline" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tarun193&show_icons=true&locale=en&layout=compact" alt="tarun193" />
-  <a href="https://git.io/streak-stats">
-    <img align="left" style="display: inline" src="https://streak-stats.demolab.com?user=tarun193" alt="GitHub Streak" />
-  </a>
+<div>
+   <a href="https://github.com/Tarun193">
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tarun193&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tarun193&layout=compact&langs_count=6&theme=tokyonight"/>
+
 </div>
 
 
