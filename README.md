@@ -2,12 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Tarun Chawla</h1>
-<h3 align="center">I am passionate Full Stack developer, currently I am in canada.</h3>
+<h3 align="center">I am a passionate Full Stack developer, currently, I am in Canada.</h3>
 
 - 💬 Ask me about **react, python, Django**
-
 - 📫 How to reach me **tarunchawla.7463@gmail.com**
 - ⚡ Fun fact **I am unintentionally funny**
+- 👨‍💻 You can find more info about me at [https://tarun-chawla.tech/](https://tarun-chawla.tech/)
+- 📝 I write blogs on [https://blog.tarun-chawla.tech/](https://blog.tarun-chawla.tech/)
 
 ## 🤝 Connect with Me
 <p align="left">
